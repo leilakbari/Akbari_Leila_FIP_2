@@ -80,7 +80,7 @@ you work on and the intended audience, we may go as low as 320px */
 	grid-template-columns: repeat(4, 85px);
 	grid-column-gap: 16px;
 	padding-left: 20px;
-	padding-right: 20px;
+	
 }
 
 /* 3. ---Header--- */
